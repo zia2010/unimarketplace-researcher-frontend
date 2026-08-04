@@ -1,0 +1,18 @@
+.university-form-tabs .ant-tabs-nav-list {
+  width: 100%;
+  justify-content: space-between;
+}
+
+.university-form-tabs .ant-tabs-tab-btn {
+  font-weight: 500 !important;
+  border: none !important;
+  background-color: white !important;
+  color: #929292 !important;
+}
+.university-form-tabs .ant-tabs-tab {
+  border: none !important;
+}
+
+.university-form-tabs .ant-tabs-tab-active .ant-tabs-tab-btn {
+  color: #1b56cc !important;
+}
